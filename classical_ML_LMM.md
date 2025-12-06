@@ -14,6 +14,8 @@ y_test = np.array(test_labels)
 print(f"TF-IDF feature matrix shape: {X_train.shape}")
 ```
 
+
+
 # 🔍 What TF-IDF Does
 
 ## **TF-IDF (Term Frequency – Inverse Document Frequency)**  
@@ -134,6 +136,35 @@ They struggle with:
 → Often the **best baseline** for NLP tasks.
 
 ---
+# 📊 Train and Evaluate Classical ML Models
+
+```python
+classical_models = {
+    'Logistic Regression': LogisticRegression(max_iter=1000, random_state=42),
+    'Naive Bayes': MultinomialNB(),
+    'Linear SVM': LinearSVC(random_state=42, max_iter=1000)
+}
+
+classical_results = {}
+
+for name, model in classical_models.items():
+    print(f"\n{'='*50}")
+    print(f"Training {name}...")
+
+    # Train
+    model.fit(X_train, y_train)
+
+    # Predict
+    y_pred = model.predict(X_test)
+
+    # Evaluate
+    accuracy = accuracy_score(y_test, y_pred)
+    classical_results[name] = accuracy
+
+    print(f"\nTest Accuracy: {accuracy:.4f}")
+    print("\nClassification Report:")
+    print(classification_report(y_test, y_pred, target_names=label_names))
+```
 
 # 🎯 Simple Summary
 
