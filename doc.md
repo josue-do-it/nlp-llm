@@ -1,3 +1,11 @@
+# Dataset 
+- commoncrawl ( https://commoncrawl.org/) Common Crawl maintains a free, open repository of web crawl data that can be used by anyone.
+- Semantic Scholar : https://www.semanticscholar.org/ (like google scholar)
+- Arkiv  (https://arxiv.org/)
+- Bible data  (https://www.kaggle.com/datasets/bradystephenson/bibledata)
+
+
+
 # to do : Read
 
 https://huggingface.co/Tadesse/AfroXLMR-Social
