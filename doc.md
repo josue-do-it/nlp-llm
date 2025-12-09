@@ -3,6 +3,7 @@
 - Semantic Scholar : https://www.semanticscholar.org/ (like google scholar)
 - Arkiv  (https://arxiv.org/)
 - Bible data  (https://www.kaggle.com/datasets/bradystephenson/bibledata)
+- Wikipedia :  https://huggingface.co/datasets/wikimedia/wikipedia
 
 
 
