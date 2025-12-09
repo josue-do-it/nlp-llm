@@ -1,3 +1,13 @@
+
+- Scaling law 
+
+# Training Library
+
+- Deepseek (https://www.deepspeed.ai/training/)
+-  Megatron  (https://github.com/NVIDIA/Megatron-LM)
+
+
+
 # Dataset 
 - commoncrawl ( https://commoncrawl.org/) Common Crawl maintains a free, open repository of web crawl data that can be used by anyone.
 - Semantic Scholar : https://www.semanticscholar.org/ (like google scholar)
