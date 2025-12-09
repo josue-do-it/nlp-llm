@@ -1,40 +1,18 @@
+# Scaling Laws & Training Resources
 
-- Scaling law 
+## Training Libraries
+- **DeepSpeed** – Efficient large-scale training library: https://www.deepspeed.ai/training/
+- **Megatron-LM** – Framework for training huge transformer models: https://github.com/NVIDIA/Megatron-LM
 
-# Training Library
+## Datasets
+- **CommonCrawl** – Massive web-crawl text dataset: https://commoncrawl.org/
+- **Semantic Scholar** – Scientific papers corpus: https://www.semanticscholar.org/
+- **arXiv** – Research papers repository: https://arxiv.org/
+- **Bible Dataset** – Structured biblical text: https://www.kaggle.com/datasets/bradystephenson/bibledata
+- **Wikipedia** – Large encyclopedic dataset: https://huggingface.co/datasets/wikimedia/wikipedia
 
-- Deepseek (https://www.deepspeed.ai/training/)
--  Megatron  (https://github.com/NVIDIA/Megatron-LM)
-
-
-
-# Dataset 
-- commoncrawl ( https://commoncrawl.org/) Common Crawl maintains a free, open repository of web crawl data that can be used by anyone.
-- Semantic Scholar : https://www.semanticscholar.org/ (like google scholar)
-- Arkiv  (https://arxiv.org/)
-- Bible data  (https://www.kaggle.com/datasets/bradystephenson/bibledata)
-- Wikipedia :  https://huggingface.co/datasets/wikimedia/wikipedia
-
-
-
-# to do : Read
-
-https://huggingface.co/Tadesse/AfroXLMR-Social
-
-
-### Emergent Properties in Large Language Models (LLMs): Deep Research
-https://gregrobison.medium.com/emergent-properties-in-large-language-models-llms-deep-research-81421065d0ce
-
-
-
-DeepMind › CEO
-Demis Hassabis
-2010
-
-
-
-### Learning How to Learn: How to Succeed in School Without Spending All Your Time Studying; a Guide for Kids and Teens
-Book by Alistair McConville, Barbara Oakley, and Terry Sejnowski
-
-
-
+## To Read
+- **AfroXLMR-Social** – African-language social text model: https://huggingface.co/Tadesse/AfroXLMR-Social
+- **Emergent Properties in LLMs** – Article on emergent abilities: https://gregrobison.medium.com/emergent-properties-in-large-language-models-llms-deep-research-81421065d0ce
+- **Demis Hassabis (DeepMind CEO)** – Founder of DeepMind, 2010: https://deepmind.google/people/DemisHassabis/
+- **Learning How to Learn** – Book on effective learning: https://www.goodreads.com/book/show/25942882-learning-how-to-learn
