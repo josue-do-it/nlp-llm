@@ -14,5 +14,6 @@
 ## To Read
 - **AfroXLMR-Social** – African-language social text model: https://huggingface.co/Tadesse/AfroXLMR-Social
 - **Emergent Properties in LLMs** – Article on emergent abilities: https://gregrobison.medium.com/emergent-properties-in-large-language-models-llms-deep-research-81421065d0ce
+https://huggingface.co/blog/hf-skills-training
 - **Demis Hassabis (DeepMind CEO)** – Founder of DeepMind, 2010: https://deepmind.google/people/DemisHassabis/
 - **Learning How to Learn** – Book on effective learning: https://www.goodreads.com/book/show/25942882-learning-how-to-learn
